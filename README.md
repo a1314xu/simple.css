@@ -10,4 +10,8 @@
 
 未压缩版
 
+https://github.com/Huyunxiu/simple.css/blob/master/simple.css
+
 压缩版
+
+https://github.com/Huyunxiu/simple.css/blob/master/simple.min.css
