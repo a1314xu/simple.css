@@ -6,11 +6,8 @@
   outline: none;
 }
 
-*:focus {
-  outline: none;
-}
-
-*:before, *:after {
+*::before,
+*::after {
   box-sizing: inherit;
 }
 
