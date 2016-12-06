@@ -1,0 +1,23 @@
+{
+  "name": "simple.css",
+  "version": "1.0.0",
+  "description": "A simple to CSS resets",
+  "main": "simple.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huyunxiu/simple.css.git"
+  },
+  "keywords": [
+    "CSSreset",
+    "reset"
+  ],
+  "author": "huyunxiu01@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Huyunxiu/simple.css/issues"
+  },
+  "homepage": "https://github.com/Huyunxiu/simple.css#readme"
+}
